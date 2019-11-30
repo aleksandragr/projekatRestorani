@@ -36,6 +36,8 @@ public class DateTime {
 		this.time = time;
 	}
 	
-	
+	public void empt(){
+
+	}
 	
 }
